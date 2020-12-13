@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDeepNavigation</string>
+    <string name="activity_home">Home</string>
+    <string name="activity_detail">Detail</string>
+
+    <string name="open_detail">Open Detail</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="notification_title">apa kabar?</string>
+    <string name="notification_message">apakah kamu ada agenda akhir pekan ini? kalau tidak, ayo jalan-jalan</string>
+    <string name="detail_title">halo… ada berita baik</string>
+    <string name="detail_message">sekarang kalian bisa belajar android di dicoding</string>
+</resources>
